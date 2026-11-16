@@ -1,0 +1,3 @@
+This is not a smiduweorc project. It just happens to be here because I can use pages for free. I previously used to have a discord bot that sent random RFCs to my dms, but I have not really been using discord lately and I would like to read random rfcs on any device, hence the reason for this.
+
+I am usually more careful about accessibility, but this is really only for me, so at the moment, without wasting too much time, I have kept the site simple with a monochrome tone so it is easy on the eyes. Open a PR or issue if you want me to fix something, I will look into it and give you an appropriate response.
